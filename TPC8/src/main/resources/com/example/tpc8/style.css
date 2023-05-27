@@ -1,0 +1,36 @@
+
+
+.title {
+    -fx-text-fill: white;
+}
+.text {
+    -fx-fill: green;
+    -fx-font-family: Arial;
+    -fx-font-size: 30;
+    -fx-translate-x: 50;
+    -fx-translate-y: 50;
+}
+
+.line {
+    -fx-stroke: red;
+     -fx-stroke-width: 4;
+}
+
+.rectangle {
+    -fx-fill: blue;
+    -fx-stroke-width: 4;
+    -fx-stroke: black;
+}
+
+.triangle {
+    -fx-fill: yellow;
+    -fx-stroke-width: 2;
+}
+
+.circle {
+    -fx-fill: orange;
+}
+
+.logo {
+    -fx-image: url('logo.png');
+}
